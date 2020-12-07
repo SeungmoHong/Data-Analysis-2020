@@ -1,0 +1,7 @@
+{
+    "host":"localhost",
+    "user":"hsuser",
+    "password":"hspass",
+    "database":"pythonbbs",
+    "port":3306
+}
